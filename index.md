@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Solomon Wood's website
 
-You can use the [editor on GitHub](https://github.com/solomonw1/solomonw1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This website will show my blog, and other things I am doing.
+Projects that I am working on will be here:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+**muCmd**
+A simple shell/command processor.
+It is not currently online, but it will be available in a few weeks.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**muBuild**
+A very useful build tool, written in Python.
+It uses a simple syntax, and reads the 'MuFile' in the current directory.
+While I do not expect many people to use it, it is a very good alternative
+to GNU Make.
 
-```markdown
-Syntax highlighted code block
+It is online, at https://github.com/solomonw1/MuBuild
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/solomonw1/solomonw1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*That is all for the moment*

@@ -5,11 +5,11 @@ Projects that I am working on will be here:
 
 ### Projects
 
-**muCmd**
+**muCmd**<br>
 A simple shell/command processor.
 It is not currently online, but it will be available in a few weeks.
 
-**muBuild**
+**muBuild**<br>
 A very useful build tool, written in Python.
 It uses a simple syntax, and reads the 'MuFile' in the current directory.
 While I do not expect many people to use it, it is a very good alternative

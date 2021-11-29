@@ -4,7 +4,9 @@ This website will show my blog, and other things I am doing.
 Projects that I am working on will be here:
 
 ### Projects
-What I've been working on
+Here is what I am working on. It's just a few quick details,
+and a link so you can navigate to the proper repository
+for the project.
 
 **muCmd**<br>
 A simple shell/command processor.
@@ -18,4 +20,5 @@ to GNU Make.
 
 It is online, at https://github.com/solomonw1/MuBuild
 
-*That is all for the moment*
+
+***That is all for the moment***
